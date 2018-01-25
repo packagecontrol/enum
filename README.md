@@ -12,7 +12,7 @@ under the `enum` name.
 
 this repo | pypi
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/packagecontrol/enum.svg) | [![pypi](https://img.shields.io/pypi/v/enum.svg)][pypi]
+![latest tag](https://img.shields.io/github/tag/packagecontrol/enum34.svg) | [![pypi](https://img.shields.io/pypi/v/enum.svg)][pypi]
 
 
 ## How to use *enum* as a dependency
@@ -55,7 +55,7 @@ See also:
 1. Download the latest tarball
    from [pypi][].
 2. Delete everything inside the `all/` folder.
-3. Copy `enum.py`
+3. Copy the `enum/` folder (without docs)
    and everything related to copyright/licensing
    from the tarball
    to the `all/` folder.
@@ -76,7 +76,7 @@ The contents of the `all/` folder
 fall under *their own bundled licenses*.
 
 
-[enum34]: https://pypi.python.org/pypi/enum34
+[enum34]: https://docs.python.org/3/library/enum.html
 [Package Control]: http://packagecontrol.io/
 [Sublime Text]: http://sublimetext.com/
 [pypi]: https://pypi.python.org/pypi/enum34
