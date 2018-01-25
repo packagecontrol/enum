@@ -1,6 +1,4 @@
 # *enum* module for Package Control
-[![Build Status](https://travis-ci.org/packagecontrol/enum.png?branch=master)](https://travis-ci.org/packagecontrol/enum)
-
 
 This is the *[enum34][]* module
 bundled for usage with [Package Control][],
